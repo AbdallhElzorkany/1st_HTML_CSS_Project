@@ -147,7 +147,7 @@ html {
 /* end of header */
 /* start landing */
 .landing {
-  background-image: url("../images/landing.jpg");
+  background-image: url(../images/landing.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
